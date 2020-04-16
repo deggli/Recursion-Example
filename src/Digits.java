@@ -4,7 +4,7 @@ public class Digits
 {
     //private ArrayList<Integer> digitList;
     private int[] digitList;
-    private int x;
+    private int x, y;
 
     // part (a)
     public Digits(int num)

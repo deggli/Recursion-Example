@@ -1,5 +1,6 @@
 public class RecursionTest
 {
+    private int foo;
 
     private int recursiveDigitSum(int n)
     {
